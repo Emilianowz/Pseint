@@ -1,0 +1,4 @@
+Algoritmo sin_titulo
+	//Hacer un algoritmo que lea un número por el teclado y determine si tiene tres dígitos.
+	
+FinAlgoritmo
